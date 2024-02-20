@@ -46,7 +46,7 @@ career-profile:
       I will be active and work hard fresher seeking for an opportunity to 
       work in a challenging environment to prove my skills and utilize my 
       knowledge & intelligence in the growth of the organization.
-      Desire: Want to be properly trained to become a senior backend developer.
+      
       Recruitment: I am looking for intern java backend developer.
 education:
     title: Education
@@ -70,7 +70,7 @@ experiences:
         company: Thien Viet JSC, Ha Noi
         details: |
           Working during the internship.
-          - Product name:Sales site using Laravel with CMS,demo: https://latashop.com/.
+          Product name:Sales site using Laravel with CMS,demo: https://latashop.com/.
           - Build a login system for administrators,users.
           - Build functions for customers,administrators.
           - Build a product display system.
@@ -88,11 +88,11 @@ experiences:
           - Handling system related situations.
           - Use a web server to operate and run the website
       - role: Fresher Backend Developer
-        time: 2020 - 2021
+        time: 2021 - 2022
         company: ITTECH , Ha Noi
         details: |
           Working during the Fresher.
-          - Maintaining and developing the spring boot java project for a high school in Hanoi.
+          Maintaining and developing the spring boot java project for a high school in Hanoi.
           - Authentication and Authorization: Secure user login and role-based access control ensure data protection and privacy.
           - Student and Teacher Profiles: Detailed profiles for students and teachers, including personal info, academic records, and contact details.
           - Class and Course Management: Easy management of class schedules, course offerings, teacher assignments, and student enrollment.
@@ -135,23 +135,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: PHP & Laravel
         level: 60%
+
+      - name: Javaweb backend
+        level: 60%
+
+      - name: Illustrator & Photoshop
+        level: 50%
+
+      - name: Mysql & Databse
+        level: 60% 
+
+      - name: Git,Github,Gitlab
+        level: 70%
+
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
