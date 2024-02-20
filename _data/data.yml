@@ -3,6 +3,7 @@
 #
 
 sidebar:
+    position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -13,34 +14,33 @@ sidebar:
 
     # Sidebar links
     email: nguyentu98lt@gmail.com
-    phone: 0345 605 055
-    website:  #do not add http://
-    linkedin: nguyentu98lt
+    phone: 034 560 5055
+    linkedin: alandoe
     github: nguyentu98lt
-    telegram: # add your nickname without '@' sign
-    twitter: '@nguyentu98lt'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
-        level: Advanced
+      title: Languages
+      info:
+        - idiom: English
+          level: Average
 
 
     interests:
-      - item: Gaming
-        link:
+      title: Interests
+      info:
+        - item: Climbing
+          link:
 
-      - item: Football
-        link:
+        - item: Gaming
+          link:
 
-      - item: Learning
-        link:
+        - item: Football
+          link:
 
 career-profile:
-    title: Career Objective
+    title: Career Profile
     summary: |
       Even though I only have 6 months of experience in backend development,
       I will be active and work hard fresher seeking for an opportunity to 
@@ -50,71 +50,58 @@ career-profile:
       Desire: Want to be properly trained to become a senior backend developer.
 
       Recruitment: I am looking for intern java backend developer.
-
-
-      Laravel 
-      - Website development and optimization process
-      - MVC model
-      - Experienced in developing RESTful APIs using Laravel.
-      - Frontend: Work with blade template
-      - Strong problem-solving skills and a willingness to learn and grow.
-      
-      Java Spring Boot 
-      - Proficient in Java programming and Spring Boot framework.
-      - Experienced in developing RESTful APIs using Spring Boot.
-      - Knowledgeable in Spring Data JPA for database interaction.
-      - Familiar with front-end technologies such as HTML, CSS, and JavaScript.
-      - Strong problem-solving skills and a willingness to learn and grow.
-
-      
-      
-      
-      
-    
 education:
-    - degree: Graduate in Computer Network
-      university: PTIT
-      time: 2016 - 2021
+    title: Education
+    info:
+      - degree: Software development
+        university: PTIT
+        time: 2016 - 2021
+        
+          
+      - degree: Design Fundamentals Course
+        university: FPT
+        time: 2017 - 2017
+        
 
-    - degree: Design Fundamentals Course
-      university: FPT EDU
-      time: 2017-2018  
-    
 experiences:
-    - role: Intern Backend Developer
-      time: 2020 - 2021(7 months)
-      company: Thien Viet JSC, Ha Noi
-      details: |
-        Working during the internship.
-        Product name:Sales site using Laravel with CMS,demo: https://latashop.com/.
+    title: Experiences
+    info:
+      - role: Intern Backend Developer
+        time: 2020 - 2021
+        company: Thien Viet JSC, Ha Noi
+        details: |
+          Working during the internship.
+          Product name:Sales site using Laravel with CMS,demo: https://latashop.com/.
           - Build a login system for administrators,users.
           - Build functions for customers,administrators.
           - Build a product display system.
           - Build a payment system.
           - Optimization and bug fixes.
-    - role: Fulltime Network Computer
-      time: 2021 - 2022(5 months)
-      company: Lumi, HaNoi
-      details: |
-        Fulltime:
+      - role: Fresher Network Computer
+        time: 2021 - 2022
+        company: Lumi, HaNoi
+        details: |
+          Fulltime:
           - Set up computer network for client computers in the company.
           - Set up a common environment for the server system.
           - Connect all devices and fix the error.
           - Create a protection system for the company's internal network.
           - Handling system related situations.
           - Use a web server to operate and run the website
-    - role: Fresher Backend Developer
-      time: 2021 - 2022(6 months)
-      company: ITTECH , Ha Noi
-      details: |
-        Working during the Fresher.
+      - role: Fresher Backend Developer
+        time: 2021 - 2022
+        company: ITTECH , Ha Noi
+        details: |
+          Working during the Fresher.
         Maintaining and developing the spring boot java project for a high school in Hanoi.
           - Authentication and Authorization: Secure user login and role-based access control ensure data protection and privacy.
           - Student and Teacher Profiles: Detailed profiles for students and teachers, including personal info, academic records, and contact details.
           - Class and Course Management: Easy management of class schedules, course offerings, teacher assignments, and student enrollment.
           - Gradebook and Progress Tracking: Record and track student grades, assignments, exams, and overall academic performance.
           - Optimization and bug fixes.      
-    
+
+
+
 projects:
     title: Projects
     intro: > All my Laravel pet projects.
@@ -157,10 +144,11 @@ skills:
         level: 50%
 
       - name: Mysql & Databse
-        level: 60% 
+        level: 60%
 
       - name: Git,Github,Gitlab
-        level: 70% 
+        level: 70%
 
+      
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
