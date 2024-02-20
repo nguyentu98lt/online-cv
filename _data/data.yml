@@ -56,52 +56,48 @@ education:
         time: 2016 - 2021
         details: |
           
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Design Fundamentals Course
+        university: FPT EDU
+        time: 2017 - 2017
         details: |
          
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Intern Backend Developer
+        time: 2020 - 2021
+        company: Thien Viet JSC, Ha Noi
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Working during the internship.
+          - Product name:Sales site using Laravel with CMS,demo: https://latashop.com/.
+          - Build a login system for administrators,users.
+          - Build functions for customers,administrators.
+          - Build a product display system.
+          - Build a payment system.
+          - Optimization and bug fixes.
+      - role: Fresher Network Computer
+        time: 2021 - 2022
+        company: Lumi, HaNoi
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Fulltime:
+          - Set up computer network for client computers in the company.
+          - Set up a common environment for the server system.
+          - Connect all devices and fix the error.
+          - Create a protection system for the company's internal network.
+          - Handling system related situations.
+          - Use a web server to operate and run the website
+      - role: Fresher Backend Developer
+        time: 2020 - 2021
+        company: ITTECH , Ha Noi
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Working during the Fresher.
+          - Maintaining and developing the spring boot java project for a high school in Hanoi.
+          - Authentication and Authorization: Secure user login and role-based access control ensure data protection and privacy.
+          - Student and Teacher Profiles: Detailed profiles for students and teachers, including personal info, academic records, and contact details.
+          - Class and Course Management: Easy management of class schedules, course offerings, teacher assignments, and student enrollment.
+          - Gradebook and Progress Tracking: Record and track student grades, assignments, exams, and overall academic performance.
+          - Optimization and bug fixes.      
 
 certifications:
       title: Certifications
