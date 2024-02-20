@@ -54,11 +54,13 @@ education:
       - degree: Software development
         university: PTIT
         time: 2016 - 2021
-        
+        details: |
+          
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
-        
+        details: |
+         
 
 experiences:
     title: Experiences
